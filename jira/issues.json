@@ -1,0 +1,261 @@
+{
+  "project": {
+    "key": "RRW",
+    "name": "RainyRoof Restaurant Website",
+    "type": "software"
+  },
+  "issues": [
+    {
+      "id": "RRW-001",
+      "type": "Story",
+      "title": "Project bootstrap and initial repo setup",
+      "status": "Done",
+      "priority": "High",
+      "commits": ["173cd25", "138b7c8"],
+      "description": "Initialize repository, set up base project structure, remove placeholder README."
+    },
+    {
+      "id": "RRW-002",
+      "type": "Task",
+      "title": "Build header section - Part 1 and 2",
+      "status": "Done",
+      "priority": "High",
+      "commits": ["ea34a4f", "34b26ea", "a07672b", "116d85e"],
+      "description": "Implement hero/header HTML structure. Add logo asset to img folder."
+    },
+    {
+      "id": "RRW-003",
+      "type": "Task",
+      "title": "Add hero logo and initial header part 3",
+      "status": "Done",
+      "priority": "Medium",
+      "commits": ["4123be8", "58c3d13", "034c5da"],
+      "description": "Complete header section, integrate logo image asset."
+    },
+    {
+      "id": "RRW-004",
+      "type": "Task",
+      "title": "Implement feature section and image assets",
+      "status": "Done",
+      "priority": "Medium",
+      "commits": ["cec8522", "a51c58d", "97cb974", "e8d82fa"],
+      "description": "Build features/highlights section. Add and wire up images."
+    },
+    {
+      "id": "RRW-005",
+      "type": "Bug",
+      "title": "Fix oversized icon in features section",
+      "status": "Done",
+      "priority": "Low",
+      "commits": ["2617d3e", "1958881"],
+      "description": "Icon rendering too large on certain viewports. CSS fix applied."
+    },
+    {
+      "id": "RRW-006",
+      "type": "Task",
+      "title": "Build meal/menu section - Part 1 and 2",
+      "status": "Done",
+      "priority": "High",
+      "commits": ["64e7cb6", "b9a066c", "861541d"],
+      "description": "Favourite meals grid: meal cards, images, pricing layout."
+    },
+    {
+      "id": "RRW-007",
+      "type": "Task",
+      "title": "How it works section and cities section",
+      "status": "Done",
+      "priority": "Medium",
+      "commits": ["de40a09", "96185af", "83e3741"],
+      "description": "Build step-by-step how-it-works section. Add city cards (Berlin, Lisbon, London, SF)."
+    },
+    {
+      "id": "RRW-008",
+      "type": "Task",
+      "title": "Customer testimonials section",
+      "status": "Done",
+      "priority": "Medium",
+      "commits": ["0087b6f", "ffb4189"],
+      "description": "Add testimonial cards with customer photos and quotes."
+    },
+    {
+      "id": "RRW-009",
+      "type": "Task",
+      "title": "Sign-up section and contact form",
+      "status": "Done",
+      "priority": "Medium",
+      "commits": ["cf89ae4", "2d997d6", "f9dbaed", "2d0aba7"],
+      "description": "Newsletter sign-up form. Contact form HTML structure and basic validation."
+    },
+    {
+      "id": "RRW-010",
+      "type": "Task",
+      "title": "Footer and pre-footer sections",
+      "status": "Done",
+      "priority": "Low",
+      "commits": ["2036f40", "5269b8c"],
+      "description": "Footer layout with nav links, social icons, copyright."
+    },
+    {
+      "id": "RRW-011",
+      "type": "Story",
+      "title": "Responsiveness implementation (mobile/tablet)",
+      "status": "Done",
+      "priority": "High",
+      "commits": ["2d1e29b", "4365881", "f84045f"],
+      "description": "Media queries for mobile-first layout. Grid collapses, font scaling, image adjustments."
+    },
+    {
+      "id": "RRW-012",
+      "type": "Task",
+      "title": "Add jQuery interactions and scroll effects",
+      "status": "Done",
+      "priority": "Medium",
+      "commits": ["f84045f", "d69ec24", "2bb00fb", "4373290"],
+      "description": "Sticky nav on scroll, smooth scroll to anchors, CSS transition effects via jQuery."
+    },
+    {
+      "id": "RRW-013",
+      "type": "Task",
+      "title": "Navigation completion and waypoints animation",
+      "status": "Done",
+      "priority": "Medium",
+      "commits": ["1645125", "136028a", "e958a04"],
+      "description": "Finish navigation bar. Add jquery.waypoints for scroll-triggered animations."
+    },
+    {
+      "id": "RRW-014",
+      "type": "Task",
+      "title": "Add favicon and compress CSS",
+      "status": "Done",
+      "priority": "Low",
+      "commits": ["371be82", "ef117ec"],
+      "description": "Multi-size favicon set (16x16, 32x32, apple-touch, android-chrome). Minify CSS."
+    },
+    {
+      "id": "RRW-015",
+      "type": "Task",
+      "title": "HTML validation pass",
+      "status": "Done",
+      "priority": "Low",
+      "commits": ["2e72e64"],
+      "description": "W3C HTML validation. Fix semantic errors and deprecated attributes."
+    },
+    {
+      "id": "RRW-016",
+      "type": "Task",
+      "title": "Publish website and add testimonial background",
+      "status": "Done",
+      "priority": "High",
+      "commits": ["dc62c06", "cb43f7c", "b4d0a53"],
+      "description": "Deploy to GitHub Pages. Fix testimonials section background image."
+    },
+    {
+      "id": "RRW-017",
+      "type": "Task",
+      "title": "Add README and GitHub Pages link",
+      "status": "Done",
+      "priority": "Low",
+      "commits": ["58f21fa", "bb43221", "27e32b9", "5f9f72d", "f165d73"],
+      "description": "Write project README. Add live site URL, screenshots, setup instructions."
+    },
+    {
+      "id": "RRW-018",
+      "type": "Bug",
+      "title": "Grammar fix in site content",
+      "status": "Done",
+      "priority": "Low",
+      "commits": ["6ff6efc", "a0652cf"],
+      "description": "Typo and grammar corrections across visible website copy."
+    },
+    {
+      "id": "RRW-019",
+      "type": "Task",
+      "title": "Add Google Analytics tracking",
+      "status": "Done",
+      "priority": "Medium",
+      "commits": ["b6d2097", "9de7160"],
+      "description": "Integrate GA4 tag into index.html head."
+    },
+    {
+      "id": "RRW-020",
+      "type": "Task",
+      "title": "Update README with images and optimization",
+      "status": "Done",
+      "priority": "Low",
+      "commits": ["83733d2", "f21d2d6", "d8a6f70"],
+      "description": "Add screenshot images to README. README content cleanup."
+    },
+    {
+      "id": "RRW-021",
+      "type": "Task",
+      "title": "Update hero image (1st img swap)",
+      "status": "Done",
+      "priority": "Low",
+      "commits": ["0e727b0", "2c4d90d", "e24d67c", "cadb7fb"],
+      "description": "Replace default hero banner image. Iterated 3 times before final pick."
+    },
+    {
+      "id": "RRW-022",
+      "type": "Bug",
+      "title": "Typo fix",
+      "status": "Done",
+      "priority": "Low",
+      "commits": ["3187fb1", "b201c6e"],
+      "description": "Minor typo found post-publish."
+    },
+    {
+      "id": "RRW-023",
+      "type": "Task",
+      "title": "Update canonical URL in index.html",
+      "status": "Done",
+      "priority": "Low",
+      "commits": ["66f8431"],
+      "description": "Update GitHub Pages URL after repo rename/move."
+    },
+    {
+      "id": "RRW-024",
+      "type": "Task",
+      "title": "Add LICENSE file",
+      "status": "Done",
+      "priority": "Low",
+      "commits": ["bd9920b", "8ba28b7"],
+      "description": "MIT License added via GitHub UI."
+    },
+    {
+      "id": "RRW-025",
+      "type": "Task",
+      "title": "Add CODE_OF_CONDUCT and issue templates",
+      "status": "Done",
+      "priority": "Low",
+      "commits": ["e9a4273", "560677e"],
+      "description": "Contributor conduct doc. Bug report and feature request issue templates."
+    },
+    {
+      "id": "RRW-026",
+      "type": "Task",
+      "title": "Add GitHub Actions workflows (greetings + labels)",
+      "status": "Done",
+      "priority": "Low",
+      "commits": ["38d1389", "712a075"],
+      "description": "Auto-greet new contributors. Label management workflow."
+    },
+    {
+      "id": "RRW-027",
+      "type": "Task",
+      "title": "Add CONTRIBUTING guide",
+      "status": "Done",
+      "priority": "Low",
+      "commits": ["e1c41b2"],
+      "description": "Document how external contributors can fork, branch, and submit PRs."
+    },
+    {
+      "id": "RRW-028",
+      "type": "Task",
+      "title": "Final README update",
+      "status": "Done",
+      "priority": "Low",
+      "commits": ["dd208dd"],
+      "description": "Last README polish before repo open-source release."
+    }
+  ]
+}
