@@ -1,0 +1,29 @@
+{
+  "workspace": {
+    "name": "RainyRoof Team",
+    "channel": "#reni2-dev"
+  },
+  "messages": [
+    {
+      "id": "SLK-001",
+      "author": "REPLACE_ME",
+      "timestamp": "2026-06-27T18:01:19+05:30",
+      "commits": ["87164df"],
+      "text": "REPLACE_ME"
+    },
+    {
+      "id": "SLK-002",
+      "author": "REPLACE_ME",
+      "timestamp": "2026-06-27T18:02:55+05:30",
+      "commits": ["d0cb423"],
+      "text": "REPLACE_ME"
+    },
+    {
+      "id": "SLK-003",
+      "author": "REPLACE_ME",
+      "timestamp": "2026-06-27T18:03:25+05:30",
+      "commits": ["1fdae57"],
+      "text": "REPLACE_ME"
+    }
+  ]
+}
